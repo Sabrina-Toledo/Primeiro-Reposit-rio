@@ -1,4 +1,4 @@
-# Primeiro-Reposit-rio
+# Primeiro-Repositorio
 Repositório criado para o curso de Análise e Desenvolvimento de Sistemas na SPTech School, com o foco em praticar versionamento com Git &amp; GitHub.  
 
 Sobre mim: 
